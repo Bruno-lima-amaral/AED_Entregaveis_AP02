@@ -83,8 +83,8 @@ A classe `Principal` permite ao usuário selecionar qual TDA testar, guiando as 
 
 | Detalhe | Valor |
 | :--- | :--- |
-| **Autor** | Giovanny Leone |
-| **RA** | 2402464 |
+| **Aluno** | Bruno Lima |
+| **RA** | 2403403 |
 | **Curso** | Ciência da Computação |
 | **Disciplina** | TDA Estruturas de Dados em Java |
 
